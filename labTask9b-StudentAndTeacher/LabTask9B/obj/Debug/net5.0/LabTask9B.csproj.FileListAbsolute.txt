@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.exe
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.dll
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\ref\LabTask9B.dll
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\bin\Debug\net5.0\LabTask9B.pdb
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.dll
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\ref\LabTask9B.dll
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.pdb
+C:\CodebitsAcademy\C#  labTask\labTask9b-StudentAndTeacher\LabTask9B\obj\Debug\net5.0\LabTask9B.genruntimeconfig.cache
