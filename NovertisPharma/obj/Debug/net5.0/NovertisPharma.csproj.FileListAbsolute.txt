@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.exe
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.dll
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\ref\NovertisPharma.dll
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\bin\Debug\net5.0\NovertisPharma.pdb
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.dll
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\ref\NovertisPharma.dll
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.pdb
+C:\CodebitsAcademy\C#  labTask\labTask9-inheritance\NovertisPharma\obj\Debug\net5.0\NovertisPharma.genruntimeconfig.cache
